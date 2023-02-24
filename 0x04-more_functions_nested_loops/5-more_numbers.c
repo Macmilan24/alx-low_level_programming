@@ -4,7 +4,7 @@
  * more-number - print the number form 0 to 14 10 times
  * Return: the number 0 to 14 10 times
  */
-void more_number(void)
+void more_numbers(void)
 {
 	int x;
 	int i;
